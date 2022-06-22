@@ -1,2 +1,2 @@
 # SOL
-音箱
+Audio visualizer
